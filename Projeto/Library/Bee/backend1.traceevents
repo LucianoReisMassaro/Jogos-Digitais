@@ -1,0 +1,545 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1699471820345256, "dur":52, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820345422, "dur":3200, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820348648, "dur":176, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820348895, "dur":508, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349512, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349589, "dur":74, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349668, "dur":76, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349749, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349823, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349895, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349967, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350039, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350112, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350183, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350256, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350328, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350399, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350470, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350542, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350618, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350839, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350914, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820350987, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351058, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351131, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351200, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351269, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351339, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351413, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351485, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351557, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351631, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351705, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351777, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351848, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820351921, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352062, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352136, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352208, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352281, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352353, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352425, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352499, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352573, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352647, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352717, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352787, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352862, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820352938, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353009, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353083, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353223, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353300, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353376, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353450, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353522, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353593, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353666, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353739, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353811, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353884, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820353954, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354026, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354100, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354174, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354246, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354338, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354409, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354482, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354554, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354628, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354701, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354773, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354858, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820354931, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355003, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355072, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355141, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355213, "dur":84, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355304, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355380, "dur":175, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355585, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355658, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355730, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355803, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355879, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820355956, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356029, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356102, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356174, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356247, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356321, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356393, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356465, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356539, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356611, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356685, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356778, "dur":78, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356861, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820356935, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357007, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357083, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357156, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357229, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357301, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357375, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357448, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357520, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357593, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357668, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357741, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357813, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357890, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820357983, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358056, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358126, "dur":65, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358196, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358264, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358337, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358408, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358481, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola.exe" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358554, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358629, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358701, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358774, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358849, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358922, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1699471820358993, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359065, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359219, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359293, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359367, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359439, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359510, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359581, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359653, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359724, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359797, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359871, "dur":69, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":0, "ts":1699471820359944, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":0, "ts":1699471820360018, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":0, "ts":1699471820360089, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":0, "ts":1699471820360161, "dur":68, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":0, "ts":1699471820349501, "dur":10728, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820360231, "dur":330089, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820690321, "dur":175, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820690657, "dur":2257, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1699471820350785, "dur":9479, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820360268, "dur":1460, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820361799, "dur":606, "ph":"X", "name": "File",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820361729, "dur":1968, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820363697, "dur":15346, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820379059, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1699471820379044, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1699471820379165, "dur":134, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820382092, "dur":1280, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":1, "ts":1699471820383457, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1699471820383542, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820383855, "dur":1545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1699471820385496, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1699471820385576, "dur":122, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820387034, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820385940, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1699471820387245, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820387243, "dur":85, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820387329, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820390913, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820387517, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820391182, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820391180, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820391262, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820391669, "dur":1181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1699471820392929, "dur":77, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699471820393007, "dur":65, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820393099, "dur":1331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699471820394511, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1699471820394616, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820394884, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1699471820396111, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699471820396204, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820396416, "dur":1591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1699471820398144, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820398142, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820398233, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820438609, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820398549, "dur":40140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820438780, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820438864, "dur":2117, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820444726, "dur":178, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820440987, "dur":3954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820445136, "dur":101, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820445266, "dur":1594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820446945, "dur":104, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820447078, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820448884, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820448973, "dur":119, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820449100, "dur":1778, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820450979, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820451061, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820451137, "dur":1654, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820452910, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820453009, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820454390, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820454486, "dur":1258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820455823, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820455946, "dur":1511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820457539, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820459276, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820457663, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820459484, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820459586, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820461021, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820461122, "dur":1799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820463058, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820463147, "dur":57, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820463210, "dur":2485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820465781, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820465884, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820467453, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820467553, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820469266, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820469440, "dur":1671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820471197, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820472989, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820471303, "dur":1848, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820473270, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820475112, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820473372, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820475395, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820475494, "dur":2196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820477872, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820478131, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820478204, "dur":1786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820480096, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820480201, "dur":1529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820481847, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820481951, "dur":1802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820483860, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820483991, "dur":1497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820485577, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820485680, "dur":1574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820487342, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820487444, "dur":1464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820488999, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820489089, "dur":64, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820489159, "dur":1684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820490953, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820491043, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820491125, "dur":1551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820492769, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820492857, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820492921, "dur":1573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820494579, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820494849, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820495021, "dur":4319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820499502, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820499598, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820501847, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820499679, "dur":2277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820502048, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820503969, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820502155, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820504202, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820504308, "dur":3033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820507446, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820507605, "dur":1731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820509428, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820509572, "dur":1700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820511402, "dur":110, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820511524, "dur":166, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820511702, "dur":1638, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1699471820513490, "dur":1737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1699471820515420, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820516908, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820515533, "dur":1554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1699471820517186, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1699471820517290, "dur":1351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1699471820518920, "dur":1548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":1, "ts":1699471820520579, "dur":1406, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1699471820522092, "dur":1418, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/level0.resS" }}
+,{ "pid":12345, "tid":1, "ts":1699471820523616, "dur":1260, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1699471820524986, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1699471820527636, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1699471820529050, "dur":161268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699471820350792, "dur":9446, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699471820360242, "dur":18776, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379033, "dur":246, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379280, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379379, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379602, "dur":246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379849, "dur":170, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1699471820380186, "dur":72, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820380366, "dur":569, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820380937, "dur":228, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820381166, "dur":349, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820381517, "dur":452, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820381971, "dur":675, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820382649, "dur":464, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820383115, "dur":472, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\Valter\\Desktop\\Luciano\\FECAP\\Unity\\Projects\\Jogo da Bola\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1699471820379378, "dur":4352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1699471820384169, "dur":79, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1699471820385369, "dur":292884, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1699471820688470, "dur":239, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1699471820688468, "dur":243, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1699471820688748, "dur":1476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820350824, "dur":9421, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820360255, "dur":1532, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820361788, "dur":1461, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820363250, "dur":1412, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820364662, "dur":14366, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820379045, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820379159, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820380804, "dur":2573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1699471820383380, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820383468, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820383832, "dur":1390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820385394, "dur":89, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820385391, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820385485, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820387188, "dur":144, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820385842, "dur":1525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820387507, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1699471820387592, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820387672, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820390948, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820387741, "dur":3351, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1699471820391204, "dur":84, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1699471820391289, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820392924, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820391651, "dur":1381, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1699471820393155, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1699471820393239, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820393863, "dur":1346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1699471820395291, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820395288, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820395380, "dur":66, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820395475, "dur":1117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1699471820396671, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820396669, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820396749, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820397101, "dur":1360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820398539, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1699471820398618, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820399155, "dur":15651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1699471820414908, "dur":23018, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820437944, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820438074, "dur":2405, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820440567, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820440661, "dur":1752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820442516, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820442641, "dur":1862, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820444609, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820444700, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820444765, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820446496, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820448919, "dur":233, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820446598, "dur":2568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820449261, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820449349, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820449420, "dur":2215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820451717, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820453423, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820451815, "dur":1717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820453623, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820453753, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820455530, "dur":122, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820455657, "dur":1688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820457465, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820457572, "dur":74, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820457652, "dur":1482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820459221, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820459352, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820460858, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820463181, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820460997, "dur":2247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820463335, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820463442, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820465085, "dur":337, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820465452, "dur":1539, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820467074, "dur":182, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820467287, "dur":1449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820468850, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820468953, "dur":2077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820471206, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820471398, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820473048, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820475064, "dur":78, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820473149, "dur":2007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820475255, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820475359, "dur":1566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820477045, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820477152, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820478724, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820480498, "dur":62, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820478854, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820480689, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820480831, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820482442, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820482737, "dur":1433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820484254, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820485803, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820484355, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820486002, "dur":155, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820486169, "dur":148, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820486323, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820487742, "dur":128, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820489525, "dur":100, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820487902, "dur":1748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820489838, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820489955, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820490082, "dur":14885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820505056, "dur":3222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820511515, "dur":87, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820508309, "dur":3306, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820511696, "dur":137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820511694, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820511840, "dur":71, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1699471820511937, "dur":137660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1699471820649689, "dur":40602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820350869, "dur":9433, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820360303, "dur":1539, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820361843, "dur":1461, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820363304, "dur":353, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820363658, "dur":15377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820379062, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820379039, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820379150, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820380366, "dur":10112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820390560, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699471820390644, "dur":82, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820391024, "dur":1117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699471820392233, "dur":79, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820392230, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820392314, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820393843, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820392553, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820394011, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820394009, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820394097, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820394449, "dur":1958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1699471820396496, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699471820396575, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820397186, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1699471820398477, "dur":94, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820398477, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820398572, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820398690, "dur":1632, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola.exe" }}
+,{ "pid":12345, "tid":4, "ts":1699471820400404, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820400765, "dur":3226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820404100, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820404301, "dur":2922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820407320, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820407427, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820410379, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820410507, "dur":1385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820411976, "dur":69, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820440193, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820412075, "dur":28214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820440404, "dur":168, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820443009, "dur":64, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820440639, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820443211, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820445006, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820443313, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820445223, "dur":166, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820447314, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820445416, "dur":2031, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820447548, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820447681, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820447811, "dur":1788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820449679, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820449796, "dur":1472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820451356, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820451456, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820453058, "dur":72, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820453157, "dur":1662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820454913, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820455020, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820456802, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820456903, "dur":1773, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820458775, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820458877, "dur":1776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820460779, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820460881, "dur":1860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820462831, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820462932, "dur":1677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820464694, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820466408, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820464813, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820466603, "dur":78, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820466709, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820468354, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820468454, "dur":2544, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820471099, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820471209, "dur":1729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820473029, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820473132, "dur":1914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820475133, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820475263, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820477095, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820477194, "dur":1424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820478704, "dur":112, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820478844, "dur":1588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820480514, "dur":154, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820480680, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820486118, "dur":266, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820480754, "dur":5643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820486486, "dur":105, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820486634, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820489684, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820486701, "dur":3112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820489900, "dur":148, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820490060, "dur":131, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820491864, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820490197, "dur":1806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820492110, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820492211, "dur":1710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820494013, "dur":93, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820494118, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820494186, "dur":2604, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820496889, "dur":74, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820496975, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820497053, "dur":2919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820500059, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820500161, "dur":3718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820503982, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820504197, "dur":3324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820507648, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820509470, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820507768, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820509653, "dur":77, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820511357, "dur":901, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820509787, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1699471820521004, "dur":101, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820512785, "dur":8360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1699471820521522, "dur":73, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820525529, "dur":1238, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820521602, "dur":5185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1699471820526939, "dur":128, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820530176, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1699471820527075, "dur":3249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Valter/Desktop/Luciano/FECAP/Unity/Builds/Jogo da Bola/Jogo da Bola_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1699471820530405, "dur":159903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1699471820696466, "dur":2918, "ph":"X", "name": "ProfilerWriteOutput" }
+,
